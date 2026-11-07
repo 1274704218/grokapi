@@ -1,4 +1,4 @@
-# Grok API 中转站指南（Grok 4 / Grok 4 Heavy / Grok 4.1）
+# Grok API 中转站指南（Grok  / Grok  Heavy / Grok 最新模型）
 
 > 中文用户快速体验 Grok  系列模型的实用指南  
 >  国内可用 ｜ 中文友好
